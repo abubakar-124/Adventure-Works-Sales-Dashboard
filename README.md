@@ -49,5 +49,7 @@ Weekdays consistently account for 72.0% of the total profit, a trend that holds 
 I'm open to feedback and suggestions for improvements. Feel free to comment or reach out!
 
 Let's Connect:
+
 Gmail: abubakar.dataanalysis@gmail.com
+
 LinkedIn:www.linkedin.com/in/abu-bakar-019060378
