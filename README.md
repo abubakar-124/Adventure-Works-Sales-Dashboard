@@ -1,4 +1,5 @@
 Dynamic Adventure Works Sales Dashboard 📊
+
 I'm thrilled to share my latest project: a fully dynamic and interactive Sales Dashboard for Adventure Works. Developed with Microsoft Excel, this dashboard goes beyond static reports to provide a live, responsive tool for data analysis. Every chart, metric, and insight updates automatically based on user selections, empowering stakeholders to explore data and uncover insights on the fly.
 
 Project Overview ✨
