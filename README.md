@@ -3,9 +3,11 @@ Dynamic Adventure Works Sales Dashboard 📊
 I'm thrilled to share my latest project: a fully dynamic and interactive Sales Dashboard for Adventure Works. Developed with Microsoft Excel, this dashboard goes beyond static reports to provide a live, responsive tool for data analysis. Every chart, metric, and insight updates automatically based on user selections, empowering stakeholders to explore data and uncover insights on the fly.
 
 Project Overview ✨
+
 This dashboard was designed to transform raw sales data into a powerful, real-time analytical tool. By leveraging advanced features in Excel, I've created a seamless user experience where all visualizations are interconnected. This ensures that every filter applied—whether by year, country, or product type—instantly refreshes all related data points, providing a cohesive and comprehensive view.
 
 Key Features & Dynamic Analysis 🚀
+
 The dashboard is structured into two main, interconnected views that respond to your every click.
 
 1. Dynamic Time Series Analysis
@@ -27,6 +29,7 @@ Responsive Profit Breakdowns: All charts for Profit by Product Color, Pricing Ty
 Live Geographic Insights: The custom map dynamically highlights profit distribution by country, and the associated metrics update to show profit contributions from selected regions like the United States and Australia, which contribute 62.7% of the total profit.
 
 Data & Methodology 🛠️
+
 Data Source: Adventure Works sample sales data.
 
 Tools: Microsoft Excel, where the dynamic nature was achieved through:
@@ -38,6 +41,7 @@ Pivot Tables & Pivot Charts: The core of the dynamic interactivity, as they are 
 GETPIVOTDATA Formulas: Used to extract data from Pivot Tables into key performance indicator cards, ensuring they update in real-time.
 
 Insights Gained 📈
+
 The dynamic nature of this dashboard has allowed me to quickly uncover critical business insights:
 
 A staggering 95.4% of profit comes from products priced Above $150, a key finding that is easily validated by filtering the data.
